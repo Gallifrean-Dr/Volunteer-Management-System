@@ -61,6 +61,7 @@ http://localhost:3000
 The application is accessed via a web browser at:
 
 http://localhost:3000
+The application is demonstrated in a local development environment. A persistent public EC2 URL was not maintained for the final submission due to the use of ephemeral cloud instances during development.
 
 No authentication is required for demonstration purposes.
 
@@ -71,6 +72,10 @@ No authentication is required for demonstration purposes.
 This project includes a GitHub Actions CI pipeline configured under `.github/workflows/ci.yml`. The pipeline executes automated dependency installation and backend test execution on each push to the main branch.
 
 ---
+## JIRA Project Management
+JIRA Board:
+https://petermckenzie.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+(Note: The JIRA board requires authentication and is not publicly accessible.)
 
 ## Author
 
